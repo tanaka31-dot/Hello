@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="tanaka_intro">Hello World! My name is Tanaka, I love android development and making memojis.</string>
+    <string name="say_hello">Say Hello</string>
+</resources>
